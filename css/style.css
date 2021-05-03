@@ -23,14 +23,14 @@ h3 {
 }
 
 .top-cloud {
-    width: 10%;
+    width: 20%;
     position: absolute;
     right: 200px;
     display: inline-block;
 }
 
 .bottom-cloud {
-    width: 10%;
+    width: 20%;
     position: absolute;
     left: 200px;
     bottom: 350px;
@@ -38,7 +38,7 @@ h3 {
 }
 
 .mountain {
-    width: 50%;
+    width: 100%;
     position: relative;
     padding: 60px 0 0 0;
     display: inline-block;
